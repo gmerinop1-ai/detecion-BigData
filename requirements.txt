@@ -1,0 +1,27 @@
+requests>=2.31.0
+beautifulsoup4>=4.12.0
+streamlit>=1.28.0
+numpy>=1.24.0
+Pillow>=10.0.0
+flask>=3.0.0
+tensorflow>=2.15.0
+tf-keras>=2.15.0
+
+# Para sistema Spark + Kafka
+pyspark>=3.5.0
+kafka-python>=2.0.2
+py4j>=0.10.9.7
+
+# Para análisis de datos
+pandas>=2.0.0
+scikit-learn>=1.3.0
+
+# Para visualizaciones
+matplotlib>=3.7.0
+seaborn>=0.12.0
+
+# Para procesamiento de imágenes adicional
+opencv-python>=4.8.0
+
+# Para logging y monitoreo
+psutil>=5.9.0
